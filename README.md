@@ -1,0 +1,2 @@
+# pythonStudy
+something of python
